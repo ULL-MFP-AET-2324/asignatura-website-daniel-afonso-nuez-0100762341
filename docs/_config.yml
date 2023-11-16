@@ -6,7 +6,7 @@ description: 'Desarrollo Colaborativo de Proyectos de Aprendizaje y Enseñanza d
 acronym: AET
 exclude: [ '_drafts/2021/', '_drafts/2020' ]
 baseurl:  # '/introduccion'
-#url: https://ull-mfp-aet-2223.github.io/ull-mfp-aet-2223.github.io
+#url: https://ull-mfp-aet-2324.github.io/ull-mfp-aet-2324.github.io
 guia_docente: https://www.ull.es/apps/guias/guias/view_guide_course/2223/125771143
 show_downloads: false
 calendario_academico: https://www.ull.es/estudios-docencia/calendario-academico/
