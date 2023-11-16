@@ -5,9 +5,9 @@ light: true
 description: 'Apuntes de tecnología'
 acronym: T4E
 exclude: [ '_drafts/2021/', '_drafts/2020' ]
-baseurl: '/asignatura-website-daniel-afonso-nuez-0100762341/' # '/introduccion'
-#url: https://ull-mfp-aet-2223.github.io/ull-mfp-aet-2223.github.io
-guia_docente: 
+baseurl:  # '/introduccion'
+#url: https://ull-mfp-aet-2324.github.io/ull-mfp-aet-2324.github.io
+guia_docente: https://www.ull.es/apps/guias/guias/view_guide_course/2223/125771143
 show_downloads: false
 calendario_academico: 
 horarios_examenes: 
@@ -15,9 +15,8 @@ calendario_examenes:
 horarios_tutorias: 
 organization: 
   url: https://github.com/ULL-MFP-AET-2324
-  name: ULL-MFP-AET-2224
+  name: ULL-MFP-AET-2324
   master: https://github.dev/ULL-MFP-AET/ull-mfp-aet.github.io/blob/main/
-
 profesor: "https://github.com/Daniafonso11"
 profesor_github: daniafonso11
 chat: https://chat.google.com
